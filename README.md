@@ -56,6 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 │── styles/           # Global styles (Tailwind)
 │── utils/            # Helper functions
 │── config/           # Project configurations
+│── Postcss.congig.mjs           # Postcss configurations
 │── tailwind.config.mjs # Tailwind CSS configuration
 │── package.json       # Dependencies and scripts
 ```
